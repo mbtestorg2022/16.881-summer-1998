@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: hello
 file: https://mbtest-2021-07-30ab.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/image.jpg
 file_type: image/jpeg
 image_metadata:
@@ -8,7 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: image.jpg
 uid: d02ee3a2-1a55-42a9-988b-65ba34a63cf3
