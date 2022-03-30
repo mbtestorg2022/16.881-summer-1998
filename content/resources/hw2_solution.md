@@ -3,6 +3,7 @@ content_type: resource
 description: Quality Loss Functions
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/6dfb327c3417003d8550cedc3524e807_HW2_solution.pdf
 file_type: application/pdf
+parent_uid: fe0587be-771f-f77b-a225-1eba64d2dde3
 resourcetype: Document
 title: HW2_solution.pdf
 uid: 6dfb327c-3417-003d-8550-cedc3524e807

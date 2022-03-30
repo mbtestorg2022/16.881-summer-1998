@@ -3,6 +3,7 @@ content_type: resource
 description: Plan for the Session
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/6122f7b6e278b5ad814e3aeebf190938_l11_cad2.pdf
 file_type: application/pdf
+parent_uid: 98b160fc-873f-f25d-a146-4204891d5279
 resourcetype: Document
 title: l11_cad2.pdf
 uid: 6122f7b6-e278-b5ad-814e-3aeebf190938
