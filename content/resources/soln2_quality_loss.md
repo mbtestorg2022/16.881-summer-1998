@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions
-file: https://mbtest-2021-07-30ab.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd5d0ceeb_SOLN2_quality_loss.mcd
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd5d0ceeb_SOLN2_quality_loss.mcd
 file_type: application/octet-stream
 image_metadata:
   caption: ''
