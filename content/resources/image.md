@@ -1,17 +1,17 @@
 ---
 content_type: resource
-description: hello
-file: https://mbtest-2021-07-30ab.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/image.jpg
+description: ''
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+license: ''
 resourcetype: Image
 title: image.jpg
-uid: d02ee3a2-1a55-42a9-988b-65ba34a63cf3
+uid: c821b0d2-d4d5-48bc-bb07-5cfc1c71fa33
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
